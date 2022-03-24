@@ -10,6 +10,6 @@
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Kalex44">
-  <img height="120em" width="300" src="https://github-readme-stats.vercel.app/api?username=Kalex44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" width="300" src="https://github-readme-stats.vercel.app/api?username=Kalex44&show_icons=true&theme=dark&include_all_commits=true&count_private=falce"/>
   <img height="130em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalex44&layout=compact&langs_count=7&theme=dark"/>
 </div>

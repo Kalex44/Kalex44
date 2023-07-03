@@ -6,7 +6,7 @@
 <div>
   
   ##
-   Desenvolvo projetos arduino e estou focado em aprender python
+   ESTUDANTE UNIVERSITARIO (ISCTE)
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Kalex44">
